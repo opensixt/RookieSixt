@@ -1,13 +1,13 @@
-Sixt iOS application test
+#Sixt iOS application test
 
 You are a passionate iOS Developer looking for a new challange? Try our coding test for iOS applicants.
 
-Task description:
+##Task description
 This project gives a basic structure for a new app that represents rental offers from a JSON data source (offers.json)
 Please complete the sample app and load the offers from the JSON file and present it in a UITableView
 The table view should have a seperat section for each vehicle brand (BMW, Mercedes, Audi, etc.)
 
-Requirements:
+##Requirements
 - The view vontroller displays the final offerlist with vehicle brands and offers as well as all information from each offer in a row
 - Vehicle brands should be sorted by name, offers must be sorted by ascending price within each brand section
 - The offers.json file must be loaded asynchronously using the OfferManager. The given block method should return the Offer objects
@@ -17,5 +17,5 @@ Requirements:
 Send your best solution to sven.roeder@sixt.com for review. If you have any further question on this task please do not hesitate to contact us.
 
 
-Happy coding and good luck.
+**Happy coding and good luck.**
 Sixt Mobile Dev Team
