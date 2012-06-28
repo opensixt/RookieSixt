@@ -1,0 +1,19 @@
+{
+"records": {
+    "offers" : [
+              {"title": "BMW 1 series", "price": 100.00, "currency" : "EUR"},
+              {"title": "Ford Focus", "price": 80.00, "currency" : "$"},
+              {"title": "Mercedes A-Class", "price": 80.30, "currency" : "$"},
+              {"title": "BMW 3 series", "price": 77.30, "currency" : "$"},
+              {"title": "Mercedes C-Class", "price": 120.00, "currency" : "EUR"},
+              {"title": "Ford Kuga", "price": 74.02, "currency" : "EUR"},
+              {"title": "Opel Ampera", "price": 42.20, "currency" : "€"},
+              {"title": "VW Golf", "price": 80.00, "currency" : "EUR"},
+              {"title": "VW Passat", "price": 90.10, "currency" : "€"},
+              {"title": "Audi A3", "price": 80.00, "currency" : "GBP"},
+              {"title": "Audi A5", "price": 70.20, "currency" : "GBP"},
+              {"title": "Audi A6", "price": 33.20, "currency" : "€"},
+              {"title": "Mini Cooper Cabrio", "price": 230.00, "currency" : "GBP"}
+             ]
+    }
+}
