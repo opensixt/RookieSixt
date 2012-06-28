@@ -24,7 +24,7 @@
 		5B2144F4159B470900DCC4E6 /* OfferManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B2144F1159B470900DCC4E6 /* OfferManager.m */; };
 		5B2144F9159B485200DCC4E6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B2144F8159B485200DCC4E6 /* ViewController.m */; };
 		5B2144FD159B494E00DCC4E6 /* offers.json in Resources */ = {isa = PBXBuildFile; fileRef = 5B2144FC159B494E00DCC4E6 /* offers.json */; };
-		5B56DB84159C41DE003962E7 /* README in Resources */ = {isa = PBXBuildFile; fileRef = 5B56DB83159C41DE003962E7 /* README */; };
+		5B56DB84159C41DE003962E7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5B56DB83159C41DE003962E7 /* README.md */; };
 		5B56DB8B159C4235003962E7 /* NSNumber+Util.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B56DB8A159C4235003962E7 /* NSNumber+Util.m */; };
 /* End PBXBuildFile section */
 
@@ -64,7 +64,7 @@
 		5B2144F7159B485200DCC4E6 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		5B2144F8159B485200DCC4E6 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		5B2144FC159B494E00DCC4E6 /* offers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = offers.json; sourceTree = "<group>"; };
-		5B56DB83159C41DE003962E7 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		5B56DB83159C41DE003962E7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		5B56DB89159C4235003962E7 /* NSNumber+Util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSNumber+Util.h"; sourceTree = "<group>"; };
 		5B56DB8A159C4235003962E7 /* NSNumber+Util.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSNumber+Util.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -96,7 +96,7 @@
 		5B2144A6159B458A00DCC4E6 = {
 			isa = PBXGroup;
 			children = (
-				5B56DB83159C41DE003962E7 /* README */,
+				5B56DB83159C41DE003962E7 /* README.md */,
 				5B2144E4159B462300DCC4E6 /* Icon@2x.png */,
 				5B2144E5159B462300DCC4E6 /* Icon.png */,
 				5B2144BB159B458A00DCC4E6 /* RookieSixt */,
@@ -281,7 +281,7 @@
 				5B2144E6159B462300DCC4E6 /* Icon@2x.png in Resources */,
 				5B2144E7159B462300DCC4E6 /* Icon.png in Resources */,
 				5B2144FD159B494E00DCC4E6 /* offers.json in Resources */,
-				5B56DB84159C41DE003962E7 /* README in Resources */,
+				5B56DB84159C41DE003962E7 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
