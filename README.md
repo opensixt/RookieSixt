@@ -14,7 +14,7 @@ The table view should have a seperat section for each vehicle brand (BMW, Merced
 - The currency and price must be displayed in a localized format, make use of a category method
 - Use ARC, no other frameworks needed besides the once that come with iOS
 
-Send your best solution to sven.roeder@sixt.com for review. If you have any further question on this task please do not hesitate to contact us.
+Send your best solution to werner.huber@sixt.com for review. If you have any further question on this task please do not hesitate to contact us.
 
 
 **Happy coding and good luck.**
