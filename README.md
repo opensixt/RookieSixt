@@ -1,6 +1,6 @@
 #Sixt iOS application test
 
-You are a passionate iOS Developer looking for a new challange? Try our coding test for iOS applicants.
+You are a passionate iOS Developer looking for a new challenge? Try our coding test for iOS applicants.
 
 ##Task description
 This project gives a basic structure for a new app that represents rental offers from a JSON data source (offers.json)
